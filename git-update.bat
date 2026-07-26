@@ -1,9 +1,9 @@
 @echo off
 :: Title of the window
-title Git Auto Update - SW Sayoni Hotel & Restaurant
+title Git Auto Update - SW Sayoni Hotel ^& Restaurant
 
 echo ===================================================
-echo   SW Sayoni Hotel & Restaurant - Git Update Tool
+echo   SW Sayoni Hotel ^& Restaurant - Git Update Tool
 echo ===================================================
 echo.
 
